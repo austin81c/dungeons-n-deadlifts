@@ -1,0 +1,29 @@
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	DnD Attributes and their DnDeadlifts counterparts
+    =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+    Attribute      5E Skills          Real Life Activity
+    ---------      ---------          ------------------
+   * STR           Athletics          push-ups, core, strength training
+
+   * DEX           Acrobatics         jumping, climbing, sports, athletics
+                   Sleight of Hand
+                   Stealth   
+
+   * CON           N/A                running, cardio             
+
+   * INT           Arcana             diet tracking, calorie counting, reading, learning
+                   History
+                   Investigation
+                   Nature
+                   Religion
+
+   * WIS           Animal Handling    yoga, breathing, meditation, prayer
+                   Medicine
+                   Insight
+                   Survival
+
+   * CHA           Deception          spotting, training w/friends, social events
+                   Intimidation
+                   Performance
+                   Persuation
